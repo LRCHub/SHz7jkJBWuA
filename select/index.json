@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "忘れ咲き",
+  "base_artist": "GARNET CROW",
+  "createdAt": "2026-03-09T07:05:59.327833Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "忘れ咲き",
+      "artist": "GARNET CROW",
+      "has_synced": false,
+      "path": "select/01_忘れ咲き_GARNET_CROW.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "忘れ咲き",
+      "artist": "GARNET CROW",
+      "has_synced": true,
+      "path": "select/02_忘れ咲き_GARNET_CROW.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "忘れ咲き",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/03_忘れ咲き_Various_Artists.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "忘れ咲き",
+      "artist": "GARNET CROW",
+      "has_synced": false,
+      "path": "select/pl_01_忘れ咲き_GARNET_CROW.txt"
+    }
+  ]
+}
